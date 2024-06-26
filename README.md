@@ -1,2 +1,1 @@
-# MIN_Algorithm_Study
-My algorithm study with python
+# 백준 풀이 업로드용_Python
