@@ -1,12 +1,12 @@
 import sys
 from collections import deque
 input = sys.stdin.readline
-n = int(input().strip())
+n = int(input())
 
 arr = deque()  # 큐로 사용할 deque
 
 for i in range(n):
-    s = input().strip().split()
+    s = input().split()
     
     # push
     if s[0] == "push":
